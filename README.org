@@ -15,4 +15,4 @@ Warning: my linked thoughts may have spoilers in them.
 ** License
 
 This repository is licensed under the [[https://creativecommons.org/licenses/by-nc/4.0/][Creative Commons Attribution-NonCommercial
-4.0 International]] license. See file:LICENSE for the full license text.
+4.0 International]] license. See [[file:LICENSE]] for the full license text.
