@@ -5,11 +5,11 @@ is where I'll store my list of books and thoughts.
 
 ** Books Read
 
-Warning: notes may have spoilers in them.
+Warning: my linked thoughts may have spoilers in them.
 
 | Date Finished    | Book                       |
 |------------------+----------------------------|
-| <2016-01-04 Mon> | [[file:notes/the_man_in_the_high_castle.org][The Man in the High Castle]] |
+| <2016-01-04 Mon> | [[file:thoughts/the_man_in_the_high_castle.org][The Man in the High Castle]] |
 
 
 ** License
