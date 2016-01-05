@@ -1,4 +1,9 @@
 * Reading
 
 My New Year's resolution is to read a book every week of 2016. This repository
-is where I'll store my list and notes.
+is where I'll store my list of books and notes.
+
+** License
+
+This repository is licensed under the [[https://creativecommons.org/licenses/by-nc/4.0/][Creative Commons Attribution-NonCommercial
+4.0 International]] license. See file:LICENSE for the full license text.
