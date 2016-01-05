@@ -1,7 +1,16 @@
 * Reading
 
 My New Year's resolution is to read a book every week of 2016. This repository
-is where I'll store my list of books and notes.
+is where I'll store my list of books and thoughts.
+
+** Books Read
+
+Warning: notes may have spoilers in them.
+
+| Date Finished    | Book                       |
+|------------------+----------------------------|
+| <2016-01-04 Mon> | [[file:notes/the_man_in_the_high_castle.org][The Man in the High Castle]] |
+
 
 ** License
 
