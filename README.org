@@ -7,10 +7,11 @@ is where I'll store my list of books and thoughts.
 
 Warning: my linked thoughts may have spoilers in them.
 
-| Date Finished    | Book                       |
-|------------------+----------------------------|
-| <2016-01-13 Wed> | [[thoughts/galileos_middle_finger.org][Galileo's Middle Finger]]    |
-| <2016-01-04 Mon> | [[file:thoughts/the_man_in_the_high_castle.org][The Man in the High Castle]] |
+| Date Finished     | Book                       |
+|-------------------+----------------------------|
+| Currently reading | [[file:thoughts/guns_germs_and_steel.org][Guns, Germs, and Steel]]     |
+| <2016-01-13 Wed>  | [[thoughts/galileos_middle_finger.org][Galileo's Middle Finger]]    |
+| <2016-01-04 Mon>  | [[file:thoughts/the_man_in_the_high_castle.org][The Man in the High Castle]] |
 
 
 ** License
