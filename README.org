@@ -9,6 +9,7 @@ Warning: my linked thoughts may have spoilers in them.
 
 | Date Finished     | Book                       |
 |-------------------+----------------------------|
+| <2016-01-23 Sat>  | [[file:thoughts/the_circle.org][The Circle]]                 |
 | <2016-01-20 Wed>  | [[file:thoughts/the_stranger.org][The Stranger]]               |
 | Currently reading | [[file:thoughts/guns_germs_and_steel.org][Guns, Germs, and Steel]]     |
 | <2016-01-13 Wed>  | [[thoughts/galileos_middle_finger.org][Galileo's Middle Finger]]    |
