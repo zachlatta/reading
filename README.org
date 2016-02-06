@@ -9,6 +9,7 @@ Warning: my linked thoughts may have spoilers in them.
 
 | Date Finished     | Book                       |
 |-------------------+----------------------------|
+| <2016-02-04 Thu>  | [[file:thoughts/enders_game.org][Ender's Game]]               |
 | Currently reading | [[file:thoughts/reamde.org][Reamde]]                     |
 | <2016-01-23 Sat>  | [[file:thoughts/the_circle.org][The Circle]]                 |
 | <2016-01-20 Wed>  | [[file:thoughts/the_stranger.org][The Stranger]]               |
